@@ -5,5 +5,6 @@ Integrantes:
 - Felipe Nunes Laguna
 
 Divisão de questões: 
-1 - G  2 - E  
-3 - F
+  1 - G  
+  2 - E  
+  3 - F
